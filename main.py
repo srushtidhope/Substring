@@ -21,4 +21,4 @@ for i in range(0,100):
     s2 += random.choice(string.printable)
 
 print subs2.substringCalculator(s2)
-print subs.substringCalculator(s1)
+print subs.substringCalculator(s2)
